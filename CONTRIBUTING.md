@@ -1,4 +1,4 @@
-# Contributing to CONTRIBUTING.md
+# Contributing to our projects
 
 First off, thanks for taking the time to contribute! ❤️
 
