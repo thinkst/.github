@@ -136,6 +136,12 @@ If you find an issue in the documentation, we would encourage you to submit a PR
 We would greatly appreciate it.
 
 ## Styleguides
+
+### Pull Requests
+
+We have created a Pull Request template that will give you a good guide of what information is required for this Pull Request to go through. It also provides some checks and tests that should pass before we can accept it.
+
+Please also run the `pre-commit` command in the repo to ensure all styling is adhered to (pre-commit installation instructions over [here](https://pre-commit.com/#install))
 ### Commit Messages
 
 Although we don't yet have a formal style guide, we do like to make sure our commit messages are useful at a glance. To do this, we try use some verb (Adds, Removes, Changes) and then what exactly it does.
